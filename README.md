@@ -1,6 +1,6 @@
 # AlgorithmsAndDataStructures
 
-My implementations of common algorithms and data structures that were made during my CS study. 
+Implementations of common algorithms and data structures that I made during my CS study. 
 
 ### Data Structures
 
