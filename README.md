@@ -22,7 +22,7 @@ Implementations of common algorithms and data structures that I made during my C
 - Merge sort
 - Quick sort
 - Selection sort
-- Shel sort
+- Shell sort
 
 ### String algorithms
 
