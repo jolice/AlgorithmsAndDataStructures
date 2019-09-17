@@ -24,7 +24,7 @@ public class MinimumSpanningTree  {
         while (!stack.isEmpty()) // Пока стек не опустеет
         { // Извлечение элемента из стека
             int currentVertex = stack.peek();
-            // get next unvisited neighbor
+            // следующий непосещенный сосед
             int v = graph.getUnvisitedVertex(currentVertex);
             if (v == -1) // Если соседей больше нет,
                 stack.pop(); // извлечь элемент из стека

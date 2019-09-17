@@ -6,7 +6,7 @@ public class Partition {
         return partition(array, 0, array.length - 1, pivot);
     }
 
-    public int partition(int[] array, int left, int right, int pivot) {
+    private int partition(int[] array, int left, int right, int pivot) {
 
         int leftPtr = left; // Справа от первого элемента
         int rightPtr = right; // Слева от опорного элемента
