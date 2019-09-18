@@ -1,8 +1,10 @@
 # AlgorithmsAndDataStructures
 
 [![Build Status](https://travis-ci.org/riguron/AlgorithmsAndDataStructures.svg?branch=master)](https://travis-ci.org/riguron/AlgorithmsAndDataStructures)
+[![codecov](https://codecov.io/gh/riguron/AlgorithmsAndDataStructures/branch/master/graph/badge.svg)](https://codecov.io/gh/riguron/AlgorithmsAndDataStructures)
 
-Implementations of common algorithms and data structures that I made during my CS study. 
+Implementations of common algorithms and data structures that I made during my CS study.
+
 
 ### Data Structures
 
